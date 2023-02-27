@@ -3,7 +3,7 @@ class SegmentTree:
         self,
         n,            # 列の長さ
         identity_e,   # 単位元
-        combine_f,    # 2 つのノードから値を得るための関数
+        combine_f,    # 2 つのデータから値を合成するための関数
     ):
         self._n = n
         self._size = 1
