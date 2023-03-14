@@ -7,15 +7,20 @@
 |章|タイトル|レベル|ソースコードへのリンク|
 |---|---|---|---|
 |序章|アルゴリズム実技検定と本書の構成について|-|-|
-|1 章|二分探索 発展|上級編|[リンク](https://github.com/tsutaj/pastbook-2-source-code/tree/main/chapter1)|
-|2 章|動的計画法 発展|上級編|[リンク](https://github.com/tsutaj/pastbook-2-source-code/tree/main/chapter2)|
-|3 章|頻出テクニック|上級編|[リンク](https://github.com/tsutaj/pastbook-2-source-code/tree/main/chapter3)|
-|4 章|頻出データ構造・アルゴリズム|上級編|[リンク](https://github.com/tsutaj/pastbook-2-source-code/tree/main/chapter4)|
-|5 章|ネットワークフロー|上級編|[リンク](https://github.com/tsutaj/pastbook-2-source-code/tree/main/chapter5)|
-|6 章|セグメント木|上級編|[リンク](https://github.com/tsutaj/pastbook-2-source-code/tree/main/chapter6)|
-|7 章|セグメント木上の動的計画法|エキスパート編|[リンク](https://github.com/tsutaj/pastbook-2-source-code/tree/main/chapter7)|
-|8 章|平面走査|エキスパート編|[リンク](https://github.com/tsutaj/pastbook-2-source-code/tree/main/chapter8)|
-|9 章|難問にチャレンジ！|エキスパート編|[リンク](https://github.com/tsutaj/pastbook-2-source-code/tree/main/chapter9)|
+|1 章|二分探索 発展|上級編|[Python](https://github.com/tsutaj/pastbook-2-source-code/tree/main/python/chapter1) \| [C++](https://github.com/tsutaj/pastbook-2-source-code/tree/main/cpp/chapter1)|
+|2 章|動的計画法 発展|上級編|[Python](https://github.com/tsutaj/pastbook-2-source-code/tree/main/python/chapter2) \| [C++](https://github.com/tsutaj/pastbook-2-source-code/tree/main/cpp/chapter2)|
+|3 章|頻出テクニック|上級編|[Python](https://github.com/tsutaj/pastbook-2-source-code/tree/main/python/chapter3) \| [C++](https://github.com/tsutaj/pastbook-2-source-code/tree/main/cpp/chapter3)|
+|4 章|頻出データ構造・アルゴリズム|上級編|[Python](https://github.com/tsutaj/pastbook-2-source-code/tree/main/python/chapter4) \| [C++](https://github.com/tsutaj/pastbook-2-source-code/tree/main/cpp/chapter4)|
+|5 章|ネットワークフロー|上級編|[Python](https://github.com/tsutaj/pastbook-2-source-code/tree/main/python/chapter5) \| [C++](https://github.com/tsutaj/pastbook-2-source-code/tree/main/cpp/chapter5)|
+|6 章|セグメント木|上級編|[Python](https://github.com/tsutaj/pastbook-2-source-code/tree/main/python/chapter6) \| [C++](https://github.com/tsutaj/pastbook-2-source-code/tree/main/cpp/chapter6)|
+|7 章|セグメント木上の動的計画法|エキスパート編|[Python](https://github.com/tsutaj/pastbook-2-source-code/tree/main/python/chapter7) \| [C++](https://github.com/tsutaj/pastbook-2-source-code/tree/main/cpp/chapter7)|
+|8 章|平面走査|エキスパート編|[Python](https://github.com/tsutaj/pastbook-2-source-code/tree/main/python/chapter8) \| [C++](https://github.com/tsutaj/pastbook-2-source-code/tree/main/cpp/chapter8)|
+|9 章|難問にチャレンジ！|エキスパート編|[Python](https://github.com/tsutaj/pastbook-2-source-code/tree/main/python/chapter9) \| [C++](https://github.com/tsutaj/pastbook-2-source-code/tree/main/cpp/chapter9)|
+
+## ソースコードについて
+
+- Python のソースコードは "Python (3.8.2)" と "PyPy3 (7.3.0)" のいずれかで AtCoder のジャッジサーバーに提出して AC を確認しています。
+- C++ のソースコードは "C++ (GCC 9.2.1)" で AtCoder のジャッジサーバーに提出して AC を確認しています。
 
 ## リンク集
 
