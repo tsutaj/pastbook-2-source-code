@@ -25,6 +25,7 @@
 ## リンク集
 
 - [商品紹介ページ](https://book.mynavi.jp/ec/products/detail/id=135840)（マイナビ出版のページに飛びます）
+- [商品紹介ブログ記事](https://tsutaj.hatenablog.com/entry/2023/03/16/180000)（tsutaj のブログに飛びます）
 - [書籍に関する訂正・追加情報](https://book.mynavi.jp/supportsite/detail/9784839979492past2.html)（マイナビ出版のページに飛びます）
 - [典型アルゴリズム問題集 上級〜エキスパート編](https://atcoder.jp/contests/pastbook2022)（AtCoder のコンテストページに飛びます）
   - オリジナル問題を解きたいときに活用ください
