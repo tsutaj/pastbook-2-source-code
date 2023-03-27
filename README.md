@@ -22,6 +22,10 @@
 - Python のソースコードは "Python (3.8.2)" と "PyPy3 (7.3.0)" のいずれかで AtCoder のジャッジサーバーに提出して AC を確認しています。
 - C++ のソースコードは "C++ (GCC 9.2.1)" で AtCoder のジャッジサーバーに提出して AC を確認しています。
 
+## 正誤情報について
+
+正誤情報は [errata.md](https://github.com/tsutaj/pastbook-2-source-code/blob/main/errata.md) に掲載しています。見つかり次第更新します。
+
 ## リンク集
 
 - [商品紹介ページ](https://book.mynavi.jp/ec/products/detail/id=135840)（マイナビ出版のページに飛びます）
