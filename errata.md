@@ -8,7 +8,9 @@
 | 2 章   | 85         | 長さが $N$ の文字列 $S$ と、長さが $M$ の文字列 $T$                | 長さが $M$ の文字列 $S$ と、長さが $N$ の文字列 $T$ |
 | 2 章   | 85         | "N M"（入力形式の 1 行目）                                         | "M N"                                               |
 | 2 章   | 85         | "abced"（入力例の 2 行目）                                         | "abcde"                                             |
+| 2 章   | 126        | $\left( M^2 \right)^2 = M^2$                                       | $\left( M^2 \right)^2 = M^4$ |
 | 2 章   | 128        | $h$ 階の部屋 $i$ から $h-1$ 階の部屋 $r$ に                        | $h$ 階の部屋 $r$ から $h-1$ 階の部屋 $r$ に         |
+| 2 章   | 131        | 行列 $M$ を作るのに要する計算量： $O(R^2 2^R)$                     | 行列 $M$ を作るのに要する計算量： $O(R^3 2^R)$ | 
 | 2 章   | 138        | ブロック $i$ を先に積む場合の条件： $W \leq s_i, W + w_j \leq s_j$ | $W \leq s_i, W + w_i \leq s_j$                      |
 | 2 章   | 138        | ブロック $j$ を先に積む場合の条件： $W \leq s_j, W + w_i \leq s_i$ | $W \leq s_j, W + w_j \leq s_i$                      |
 | 2 章   | 147        | 問題 URL：https://atcoder.jp/contests/tdpc/tasks/tdpc_eel          | 問題 URL：https://atcoder.jp/contests/dp/tasks/dp_p |
