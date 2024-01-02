@@ -8,6 +8,7 @@
 | 2 章   | 85         | 長さが $N$ の文字列 $S$ と、長さが $M$ の文字列 $T$                | 長さが $M$ の文字列 $S$ と、長さが $N$ の文字列 $T$ |
 | 2 章   | 85         | "N M"（入力形式の 1 行目）                                         | "M N"                                               |
 | 2 章   | 85         | "abced"（入力例の 2 行目）                                         | "abcde"                                             |
+| 2 章   | 125        | ${\left\lbrack \matrix{dp[k+1][0] \cr dp[k+1][2] \cr \vdots \cr dp[k+1][N-1]} \right\rbrack} = M {\left\lbrack \matrix{dp[k][0] \cr dp[k][2] \cr \vdots \cr dp[k][N-1]} \right\rbrack}$ | ${\left\lbrack \matrix{dp[k+1][0] \cr dp[k+1][1] \cr \vdots \cr dp[k+1][N-1]} \right\rbrack} = M {\left\lbrack \matrix{dp[k][0] \cr dp[k][1] \cr \vdots \cr dp[k][N-1]} \right\rbrack}$ |
 | 2 章   | 126        | $\left( M^2 \right)^2 = M^2$                                       | $\left( M^2 \right)^2 = M^4$ |
 | 2 章   | 128        | $h$ 階の部屋 $i$ から $h-1$ 階の部屋 $r$ に                        | $h$ 階の部屋 $r$ から $h-1$ 階の部屋 $r$ に         |
 | 2 章   | 131        | 行列 $M$ を作るのに要する計算量： $O(R^2 2^R)$                     | 行列 $M$ を作るのに要する計算量： $O(R^3 2^R)$ | 
