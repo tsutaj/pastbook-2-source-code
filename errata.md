@@ -21,6 +21,7 @@
 | 2 章   | 152        | (下の補足 1 を参照)                                                                                     |                                                                                                           |
 | 4 章   | 211        | AtCoder Beginner Contest 065：D問題 | AtCoder Regular Contest 065：D問題 |
 | 5 章   | 284        | $A_i - A_j$ のスコアが発生します。 | $\left\| A_i - A_j \right\|$ のスコアが発生します。 |
+| 9 章   | 385        | タワー $i$ と環状交差点の距離を $e(i) = \sqrt{(PX_i - CX)^2 + (PY_i - CY)^2}$ として、先ほどの問題を変更すると | タワー $i$ と環状交差点の距離を $e(i) = \left\| \sqrt{(PX_i - CX)^2 + (PY_i - CY)^2} - R \right\|$ として、先ほどの問題を変更すると |
 
 ## 補足 1: 152 ページ
 
